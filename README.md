@@ -3,10 +3,11 @@
 # 💫 About Me:
 
 <img src="Wow-gif.gif" width="450"/>
-<p align="center">
-  <b>👁️ Profile Views</b><br>
-  <img src="https://visitcount.itsvg.in/api?id=Estiyak-rubs&icon=9&color=11" />
-</p>
+
+
+### 👁️ Profile Views:
+[![](https://visitcount.itsvg.in/api?id=Estiyak-rubs&icon=9&color=11)](https://visitcount.itsvg.in)
+
 
 I'm currently pursuing a Bachelor of Science in Computer Science & Engineering at the American International University-Bangladesh (AIUB).  
 My core interests lie in **Artificial Intelligence (AI)**, **Data Science**, and **Research**.  
