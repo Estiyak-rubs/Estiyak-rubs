@@ -4,9 +4,9 @@
 
 <img src="Wow-gif.gif" width="450"/>
 
-
-### 👁️ Profile Views:
-[![](https://visitcount.itsvg.in/api?id=Estiyak-rubs&icon=9&color=11)](https://visitcount.itsvg.in)
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Anindra123" width="120" alt="Profile Views of Anindra Das">
+</p>
 
 
 I'm currently pursuing a Bachelor of Science in Computer Science & Engineering at the American International University-Bangladesh (AIUB).  
