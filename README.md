@@ -5,7 +5,7 @@
 <img src="Wow-gif.gif" width="450"/>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Anindra123" width="120" alt="Profile Views of Anindra Das">
+    <img src="https://komarev.com/ghpvc/?username=Estiyak-rubs" width="120" alt="Profile Views of Estiyak Rubaiat">
 </p>
 
 
