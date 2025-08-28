@@ -1,7 +1,7 @@
 # 💫 About Me:
-
+<p align="center">
 <img src="Wow-gif.gif" width="450"/>
-
+</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Estiyak-rubs" width="120" alt="Profile Views of Estiyak Rubaiat">
 </p>
