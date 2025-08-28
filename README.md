@@ -56,10 +56,19 @@ Beyond academics, I actively participate in social events and am the **Founder &
 ---
 
 ## 📈 GitHub Stats & Activity:
-![](https://github-readme-stats.vercel.app/api?username=Estiyak-rubs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Estiyak-rubs&theme=blue_navy&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Estiyak-rubs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Estiyak-rubs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" width="48%" height="200" />
+  
+  <!-- GitHub Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estiyak-rubs&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" height="200" />
+  
+  <!-- GitHub Activity Stack -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Estiyak-rubs&show_icons=true&count_private=true" width="48%" height="200" />
+</div>
+ 
 ---
 
 ## 🏆 GitHub Trophies:
