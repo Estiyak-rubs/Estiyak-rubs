@@ -1,5 +1,3 @@
-
-
 # 💫 About Me:
 
 <img src="Wow-gif.gif" width="450"/>
@@ -8,9 +6,17 @@
     <img src="https://komarev.com/ghpvc/?username=Estiyak-rubs" width="120" alt="Profile Views of Estiyak Rubaiat">
 </p>
 
+
+<h2 align="center">HI! I'm ESTIYAK RUBAIAT👋</h2>
+<p align="center">
+  🎓 <b>CSE Student</b> | 👶 <b>Quick Learner</b> | 🧠 <b> Researcher </b><br/>
+  🧩 "Passionate about transforming data into intelligent solutions through expertise in <b>Data Science</b>, <b>Machine Learning</b>, and <b>Computer Vision</b>." 
+</p>
+
+
 As a Computer Science student specializing in machine learning, AI, and NLP, I am passionate about leveraging cutting-edge technology to solve real-world challenges. With hands-on experience in advanced data analysis, machine learning models, and natural language processing, I bring strong programming skills in Python, C#, and R, alongside expertise in building data-driven solutions. I have successfully contributed to several projects, including predictive modeling for crop yield and real-time sentiment analysis, enhancing efficiency and decision-making across industries. Eager to apply my technical acumen and problem-solving abilities to drive innovation and make a tangible impact in the field of AI and machine learning. 
 My core interests lie in **Artificial Intelligence (AI)**, **Data Science**, and **Research**.  
-Beyond academics, I actively participate in social events and am the **Founder & President of IBE Blood Donation**.
+Beyond academics, I actively participate in social events and am the **Founder & President of IBE Blood Donation**.   [Download My CV](https://github.com/Estiyak-rubs/yourrepository/blob/main/EstiyakRubaiatCV.pdf?raw=true)
 
 ---
 
@@ -42,9 +48,9 @@ Beyond academics, I actively participate in social events and am the **Founder &
 ---
 
 ## 📚 Currently Learning:
-- Deep Learning with PyTorch
-- Advanced Machine Learning Models
-- Data Visualization with R
+- Deep Learning with PyTorch, TensorFLOW
+- Advanced Machine Learning Models For Data Analysis & Research
+- Data Visualization with Power BI
 
 ---
 
@@ -72,9 +78,10 @@ Beyond academics, I actively participate in social events and am the **Founder &
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Estiyak-rubs&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Estiyak-rubs&theme=solarized-dark&no-frame=false&no-bg=false&margin-w=4" />
+</p>
 
----
 
 ### ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
