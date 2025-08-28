@@ -8,8 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=Estiyak-rubs" width="120" alt="Profile Views of Estiyak Rubaiat">
 </p>
 
-
-I'm currently pursuing a Bachelor of Science in Computer Science & Engineering at the American International University-Bangladesh (AIUB).  
+As a Computer Science student specializing in machine learning, AI, and NLP, I am passionate about leveraging cutting-edge technology to solve real-world challenges. With hands-on experience in advanced data analysis, machine learning models, and natural language processing, I bring strong programming skills in Python, C#, and R, alongside expertise in building data-driven solutions. I have successfully contributed to several projects, including predictive modeling for crop yield and real-time sentiment analysis, enhancing efficiency and decision-making across industries. Eager to apply my technical acumen and problem-solving abilities to drive innovation and make a tangible impact in the field of AI and machine learning. 
 My core interests lie in **Artificial Intelligence (AI)**, **Data Science**, and **Research**.  
 Beyond academics, I actively participate in social events and am the **Founder & President of IBE Blood Donation**.
 
